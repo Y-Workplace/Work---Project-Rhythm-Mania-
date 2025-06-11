@@ -1,0 +1,95 @@
+🎮 Gênero e Estilo de Jogo
+
+Rhythm Game
+Rhythm Mania
+Rhythm Action
+Music Adventure
+Interactive Music
+Experimental Game
+Sandbox
+Simulation
+Skill Game
+Casual
+Story Mode
+Music
+
+🎵 Música e Áudio
+
+Song
+Songs
+Musics
+Beat
+Beats
+Soundtrack
+Sound Design
+Dynamic Audio
+BPM
+Audio Visualizer
+Audio Sync
+Custom Music
+SFX
+
+🕹️ Gameplay e Mecânicas
+
+Note Mapping
+Charting
+Music Mapping
+Input Mapping
+Controller Support
+Custom HUD
+Performance
+
+🛠️ Desenvolvimento e Ferramentas
+
+GameDev
+IndieDev
+Game Design
+Development
+Creative Tools
+Dev Logs
+Tools
+Game Engine
+3D Engine
+Roblox Studio
+Early Access
+Open Development
+Build
+
+🧱 Editor e Criação
+Custom Maps
+Level Editor
+Scene Builder
+Visual Mapping
+Visual Effects
+Shader Effects
+Real-Time Effects
+Scene
+3D Animation
+3D Art
+Effects
+VFX Design
+Creative Freedom
+Customization
+Import System
+Art Direction
+
+👥 Comunidade e Colaboração
+
+Community Driven
+Fan Content
+UGC (User Generated Content)
+Collaboration
+Collaboration Tools
+Creative Community
+Modding
+Modding Community
+Feedback Friendly
+Discord
+
+📖 Narrativa e Imersão
+
+History
+Animations
+Visuals
+Rhythm
+Story Mode

@@ -1,0 +1,87 @@
+<Beginners> 200 per day
+
+Newbie: 0 - 100
+Inexperienced: 101 - 250
+Semi-Learning: 251 - 450
+Learning: 451 - 700
+Apprentice: 701 - 1.000
+
+<Development> 799.9 per day
+
+Moving Flow: 1.001 - 1.500
+Sounding with The Notes: 1.501 - 2.200
+Dominating: 2.201 - 3.000
+Semi-Warrior: 3.001 - 4.000
+Warrior: 4.001 - 5.000
+
+<Master of Rhythm> 1799.8 per day
+
+Rhythm Vibrations: 5.001 - 6.200
+Rhythm Warrior: 6.201 - 7.500
+The Steps of The Notes: 7.501 - 9.000
+Aura of Songs: 9.001 - 10.500
+Rhythm Songs: 10.501 - 12.000
+Songs of The Souls: 12.001 - 14.000
+
+<Professionals> 4599.8 per day
+
+Semi-Pro: 14.001 - 16.000
+Pro: 16.001 - 18.500
+Flow Mastery: 18.501 - 21.000
+The Melody: 21.001 - 24.000
+Echoes of Melody: 24.001 - 27.000
+Vibration Mastery: 27.001 - 30.000
+Song Mastery: 30.001 - 33.500
+Vibration of Notes: 33.501 - 37.000
+
+<Great Masters> 8599.8 per day
+
+Shine: 37.001 - 41.000
+Vibrant: 41.001 - 45.500
+Musical Cadence: 45.501 - 50.000
+Radiation: 50.001 - 55.000
+Feeling The Notes: 55.001 - 60.500
+Feel the Vibrations: 60.501 - 66.000
+Mastering The Rhythm: 66.001 - 72.000
+Final Echoes: 72.001 - 80.000
+
+<Legends> 23999.8 per day
+
+Semi-Expert: 80.001 - 90.000
+Expert: 90.001 - 100.000
+Echoes of The Flows: 100.001 - 112.000
+Resonance Contact: 112.001 - 125.000
+White Eyes: 125.001 - 140.000
+Roots of Vibrations: 140.001 - 155.000
+The Strings of Rhythm: 155.001 - 175.000
+Pure Rhythm: 175.001 - 200.000
+
+<Ascension & Mystery> 39999.8 per day
+
+Agony of Songs: 200.001 - 230.000
+Steps in The Air: 230.001 - 260.000
+Semi-Legendary: 260.001 - 300.000
+Legendary: 300.001 - 350.000
+Legacy of Rhythm: 350.001 - 400.000
+
+<The Last Level> 119999.8 per day
+
+The Last Mission: 400.001 - 460.000
+The Last Melody: 460.001 - 520.000
+Rhythmic Defragmentation: 520.001 - 590.000
+Pieces of The Universe: 590.001 - 670.000
+The Last Star: 670.001 - 760.000
+Sparkles of Light: 760.001 - 860.000
+Last Feeling: 860.001 - 1.000.000
+
+<Dimensions and Void> 799999.8 per day
+
+Semi-Mystic: 1.000.001 - 1.200.000
+Mystic: 1.200.001 - 1.450.000
+The Presence of Emptiness: 1.450.001 - 1.750.000
+The Last Hit: 1.750.001 - 2.100.000
+Void Radiation: 2.100.001 - 2.500.000
+Void Moon: 2.500.001 - 3.000.000
+Void: 3.000.001 - 3.600.000
+The Dance of The Void Fragments: 3.600.001 - 4.300.000
+Emptiness and Rhythm: 4.300.001 - 5.000.000
